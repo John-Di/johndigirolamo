@@ -1,3 +1,12 @@
+I'm John Di Girolamo.
+This pandemic keeps dragging so I'm making the best of it with projects.
+
+Everything is a "Work in Progress" including all my READMEs and bios and whatnot.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T5KF36J)
+
+---
+
 Phantom by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
